@@ -1,6 +1,6 @@
 # 🤖 Curso Análisis de Datos y Machine Learning con Python - Módulo 1: Programación en Python
 
-Bienvenido/a al módulo 1 del curso "Análisis de Datos y Machine Learning con Python", el cual está diseñado para personas interesadas en aprender a programar en Python.
+Bienvenido/a al módulo 1.
 
 ## 🎯 Objetivo del curso
 
@@ -37,7 +37,7 @@ Aprender a programar en Python desde cero: sintaxis, tipos de objetos, estructur
 
 ## 📂 Estructura del repositorio
 ```
-📦 curso-ia-economia
+📦 curso-programacion-en-python
  ┣ 📂 clases                            # Presentaciones y Jupyter Notebooks vistos en clase
  ┣ 📄 LICENSE.md                        # Licencia MIT
  ┣ 📄 README.md                         # Este archivo
