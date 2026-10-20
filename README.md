@@ -39,7 +39,7 @@ Aprender a programar en Python desde cero: sintaxis, tipos de objetos, estructur
 ```
 📦 curso-programacion-en-python
  ┣ 📂 clases                            # Presentaciones y Jupyter Notebooks vistos en clase
- ┣ 📄 LICENSE.md                        # Licencia MIT
+ ┣ 📄 LICENSE.md                        # Licencia
  ┣ 📄 README.md                         # Este archivo
  ┣ 📄 requirements.txt                  # Librerías necesarias para este repositorio
  ┗ 📄 version_python.txt                # Versión de Python utilizada
@@ -60,4 +60,7 @@ Magíster en Ciencia de Datos de la Pontificia Universidad Católica de Chile, M
 🔗 Linkedin: www.linkedin.com/in/lina-maria-castro
 
 ## 📄 Licencia
-Este repositorio está bajo la Licencia MIT. Ver el archivo LICENSE.md para más detalles.
+
+Copyright (c) [2026] [Lina María Castro Córdoba]. Todos los derechos reservados.
+
+El uso, copia, modificación, distribución o comercialización de este material o parte de él, sin la autorización previa y por escrito de su autor, está estrictamente prohibido.
